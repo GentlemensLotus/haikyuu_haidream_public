@@ -25,6 +25,7 @@ Excelファイルです。
 Excelファイルです。
 前述のファイルとリンクしており、能力値などを視覚的にわかりやすいようグラフにしています。系列をいろいろいじって遊んでみて下さい。
 グラフの画像はTumblrにも掲載されています。
+https://www.tumblr.com/gentlemenslotus/729080258464235520/haikyuu-touch-the-dream-athletes-params-and
 ファイルを開いたとき警告が出ますが、通常は「更新しない(N)」で問題ありません。
 
 # 権利表記
