@@ -24,9 +24,12 @@ Excelファイルです。
 ### ハイドリ能力一覧Annex
 Excelファイルです。
 前述のファイルとリンクしており、能力値などを視覚的にわかりやすいようグラフにしています。系列をいろいろいじって遊んでみて下さい。
-グラフの画像はTumblrにも掲載されています。
-https://www.tumblr.com/gentlemenslotus/729080258464235520/haikyuu-touch-the-dream-athletes-params-and
 ファイルを開いたとき警告が出ますが、通常は「更新しない(N)」で問題ありません。
+
+## とりあえずちょっと見たい人のために
+OneDriveにExcelを持っていなくても閲覧できるファイルを置いておきました。
+機能が限られていますがどうぞ遊んでみてください。
+https://onedrive.live.com/?authkey=%21ADf8M6rsZpaJjck&id=52ACF2B8477C89C4%21111&cid=52ACF2B8477C89C4
 
 # 権利表記
 
