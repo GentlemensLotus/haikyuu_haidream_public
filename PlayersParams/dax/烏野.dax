@@ -1,0 +1,38 @@
+﻿EVALUATE
+VAR School = "烏野"
+
+SELECTCOLUMNS (
+    FILTER (
+        CROSSJOIN ( 'Q_Stat', 'Q_robustZ-score' ),
+        Q_Stat[ID] = 'Q_robustZ-score'[ID]
+    ),
+    "No.", Q_Stat[No.],
+    "TotalStat", Q_Stat[TotalStat],
+    "AttackVal", Q_Stat[AttackVal],
+    "ServeVal", Q_Stat[ServeVal],
+    
+    
+    
+    
+    
+    No.
+TotalStat
+AttackVal
+ServeVal
+TossVal
+ReceiveVal
+BlockVal
+服装
+服装順.ID
+じゃんけん
+ポジション
+高校
+攻撃力
+守備力
+
+)
+
+
+
+
+ORDER BY [服装]
